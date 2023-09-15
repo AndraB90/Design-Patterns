@@ -1,0 +1,24 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "arr".(Âöøµ8¼‹¤Û”1
+Z
+java:S1854"8Remove this useless assignment to local variable "list".(àâÚ—ÿÿÿÿÿ8¼‹¤Û”1
+Z
+java:S1854"8Remove this useless assignment to local variable "text".(®Œ¦ÿşÿÿÿÿ8¼‹¤Û”1
+R
+java:S1854	"5Remove this useless assignment to local variable "y".(¥’úÑ8½‹¤Û”1
+R
+java:S1854"5Remove this useless assignment to local variable "x".(ïŸäŸ8½‹¤Û”1
+C
+java:S1481"&Remove this unused "x" local variable.(ïŸäŸ8¾‹¤Û”1
+C
+java:S1481	"&Remove this unused "y" local variable.(¥’úÑ8¾‹¤Û”1
+K
+java:S1481")Remove this unused "text" local variable.(®Œ¦ÿşÿÿÿÿ8¾‹¤Û”1
+K
+java:S1481")Remove this unused "list" local variable.(àâÚ—ÿÿÿÿÿ8Ã‹¤Û”1
+E
+java:S1481"(Remove this unused "arr" local variable.(Âöøµ8Ã‹¤Û”1
+C
+java:S1481"&Remove this unused "a" local variable.(®š‹á8Ã‹¤Û”1
+]	java:S125"<This block of commented-out lines of code should be removed.(’Œãøÿÿÿÿ8Ä‹¤Û”1
